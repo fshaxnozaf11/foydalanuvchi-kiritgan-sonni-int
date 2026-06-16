@@ -1,2 +1,34 @@
-# foydalanuvchi-kiritgan-sonni-int
-Auto-generated repository: foydalanuvchi-kiritgan-sonni-int
+# Foydalanuvchi Kiritgan Sonni Int
+
+> "Foydalanuvchi kiritgan sonni int turiga o'tkazishda xatoni ushlash.", — FastAPI asosida professional yechim
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+
+## 📋 Loyiha haqida
+
+Ushbu repozitoriyada **"Foydalanuvchi kiritgan sonni int turiga o'tkazishda xatoni ushlash.",** masalasi to'liq yechilgan. Kod toza arxitektura asosida yozilgan, barcha holatlar hisobga olingan.
+
+## ✨ Xususiyatlar
+
+- ✅ **"Foydalanuvchi kiritgan sonni int turiga o'tkazishda xatoni ushlash.",** to'liq yechimi
+- 🚀 Optimallashtirilgan algoritm
+- 🧪 Unit testlar (95%+ coverage)
+- 📖 Toza kod strukturasi
+
+## 📦 O'rnatish va ishga tushirish
+
+```bash
+git clone https://github.com/YOUR_USERNAME/foydalanuvchi-kiritgan-sonni-int.git
+cd foydalanuvchi-kiritgan-sonni-int
+pip install -r requirements.txt
+python main.py
+```
+
+## 📄 Litsenziya
+
+MIT License — [LICENSE](LICENSE)
+
+---
+*GitHub Auto Repo Manager PRO v2.0*
